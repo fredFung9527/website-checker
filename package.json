@@ -1,8 +1,7 @@
 {
   "name": "website-checker",
   "version": "1.0.0",
-  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "dev": "ts-node index.ts",
     "build": "tsc",
@@ -10,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.duraflex.app:portal-team/website-checker.git"
+    "url": "git@github.com:fredFung9527/website-checker.git"
   },
   "keywords": [],
   "author": "",
